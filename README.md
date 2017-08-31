@@ -19,7 +19,7 @@ then open a termianl in same direction and Run the api (Helper) bot
 (Dont forget to set Inline settings)
 ./bot api
 
-.........................................................................
+
 دستورات روشن کردن 
 
 cd ELTRASPEED && screen ./bot cli
